@@ -1,0 +1,7 @@
+00:54:00 **** Rebuild of configuration Debug for project SampleInput ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleInput.o" "..\\src\\SampleInput.c" 
+gcc -o SampleInput.exe "src\\SampleInput.o" 
+
+00:54:01 Build Finished. 0 errors, 0 warnings. (took 1s.59ms)
+

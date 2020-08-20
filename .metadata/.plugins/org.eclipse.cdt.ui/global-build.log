@@ -1,0 +1,5 @@
+13:16:55 **** Rebuild of configuration Debug for project DA4.1 MultiplicationTable ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\DA4.1 MultiplicationTable.o" "..\\src\\DA4.1 MultiplicationTable.c" 
+gcc -o "DA4.1 MultiplicationTable.exe" "src\\DA4.1 MultiplicationTable.o" 
+Info: Nothing to build for DA4.1 MultiplicationTable

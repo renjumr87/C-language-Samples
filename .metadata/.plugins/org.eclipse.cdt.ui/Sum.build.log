@@ -1,0 +1,7 @@
+13:30:04 **** Rebuild of configuration Debug for project Sum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sum.o" "..\\src\\Sum.c" 
+gcc -o Sum.exe "src\\Sum.o" 
+
+13:30:09 Build Finished. 0 errors, 0 warnings. (took 5s.108ms)
+
